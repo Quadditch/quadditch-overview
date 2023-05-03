@@ -11,7 +11,7 @@
 [![Demo video](https://img.youtube.com/vi/CIl3YrZ3UGY/maxresdefault.jpg)](https://youtu.be/CIl3YrZ3UGY)
 
 ### System Architecture
-![SystemLayout](https://user-images.githubusercontent.com/46829130/235982200-57159e07-c5dd-4e47-bf94-4e878eaf6d64.png)
+![system_architecture_withbg](https://user-images.githubusercontent.com/46829130/235984401-e9333ca2-d043-4639-b111-dfe76183bbb6.jpg)
 
 ### Game Views
 ![QuadditchScreenshot](https://user-images.githubusercontent.com/46829130/235982185-f3da49a2-e00b-4c88-b2b8-f21ca33ce151.png)

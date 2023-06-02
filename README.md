@@ -7,7 +7,7 @@
 
 [ROSIntegration](https://github.com/Quadditch/rosintegration): A fork of the repo for the UE4 ROS plugin. This lets UE4 connect to ROS. The fork adds some definitions for new message and service types.
 
-### Game Action
+### Game Action (video)
 [![Demo video](https://img.youtube.com/vi/CIl3YrZ3UGY/maxresdefault.jpg)](https://youtu.be/CIl3YrZ3UGY)
 
 ### System Architecture

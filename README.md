@@ -19,4 +19,4 @@
 ![admin_spectator](https://user-images.githubusercontent.com/46829130/235982195-bcb98424-8a1b-4ce6-bc77-efc0ed4072d2.png)
 
 ### Conference Paper
-For more details check out the EuroGNC 2022 conference paper (attached in this repo).
+For more details check out the [EuroGNC 2022 conference paper](Quadditch__EuroGNC22-Foran.pdf).
